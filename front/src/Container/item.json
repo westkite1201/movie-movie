@@ -1,0 +1,38 @@
+{
+  "lastBuildDate": "Tue, 15 Sep 2020 18:05:33 +0900",
+  "total": 24,
+  "start": 1,
+  "display": 10,
+  "items": [
+    {
+      "title": "어벤져스: 엔드게임",
+      "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=136900",
+      "image": "https://ssl.pstatic.net/imgmovie/mdi/mit110/1369/136900_P57_104126.jpg",
+      "subtitle": "<b>Avengers</b>: Endgame",
+      "pubDate": "2019",
+      "director": "안소니 루소|조 루소|",
+      "actor": "로버트 다우니 주니어|크리스 에반스|크리스 헴스워스|마크 러팔로|스칼렛 요한슨|제레미 레너|돈 치들|폴 러드|브리 라슨|카렌 길런|브래들리 쿠퍼|조슈 브롤린|",
+      "userRating": "9.38"
+    },
+    {
+      "title": "어벤져스: 인피니티 워",
+      "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=136315",
+      "image": "https://ssl.pstatic.net/imgmovie/mdi/mit110/1363/136315_P16_142450.jpg",
+      "subtitle": "<b>Avengers</b>: Infinity War",
+      "pubDate": "2018",
+      "director": "안소니 루소|조 루소|",
+      "actor": "크리스 프랫|조 샐다나|브래들리 쿠퍼|빈 디젤|조슈 브롤린|엘리자베스 올슨|베네딕트 컴버배치|스칼렛 요한슨|톰 홀랜드|로버트 다우니 주니어|크리스 헴스워스|크리스 에반스|마크 러팔로|톰 히들스턴|폴 베타니|돈 치들|채드윅 보스만|데이브 바티스타|안소니 마키|",
+      "userRating": "8.96"
+    },
+    {
+      "title": "어벤져스 오브 저스티스",
+      "link": "https://movie.naver.com/movie/bi/mi/basic.nhn?code=169207",
+      "image": "https://ssl.pstatic.net/imgmovie/mdi/mit110/1692/169207_P01_102131.jpg",
+      "subtitle": "<b>Avengers</b> of Justice: Farce Wars",
+      "pubDate": "2018",
+      "director": "",
+      "actor": "에이미 스마트|토니 차발레로|사이먼 렉스|스티븐 랜나지시|제프 체이스|제이슨 앨런 스미스|",
+      "userRating": "4.15"
+    }
+  ]
+}
