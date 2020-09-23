@@ -5,8 +5,8 @@ router.get('/getNaverMovie', async function (req, res) {
   let query = req.query.query;
   let reqOptions = {
     headers: {
-      'X-Naver-Client-Id': 'mg6ly6rkZfg9ZZUMFKcn',
-      'X-Naver-Client-Secret': 'q2CAm1qvUL'
+      'X-Naver-Client-Id': 'your client id',
+      'X-Naver-Client-Secret': 'your client secret'
     },
     params: {
       query: query
